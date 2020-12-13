@@ -1,5 +1,5 @@
 
-Hi there 👋
+Hey there 👋
 
      My name is Itzac Ângelo Souza Albertin, I'm 22 years old and I'm new to programming.
 
