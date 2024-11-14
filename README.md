@@ -10,4 +10,3 @@ Hey there 👋
            </br>->e-mail: itzacalbertin@gmail.com
            </br>->Twitter: @intizaqui
            </br>->Facebook: Itzac Albertin.
-           </br>->LinkedIn: linkedin.com/itzac-albertin
