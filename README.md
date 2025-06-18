@@ -8,5 +8,3 @@ Hey there 👋
   - ⚡ I like to play games with my friends and learn to code in my "focus time".
   - 📫 <strong>How to reach me:
            </br>->e-mail: itzacalbertin@gmail.com
-           </br>->Twitter: @intizaqui
-           </br>->Facebook: Itzac Albertin.
