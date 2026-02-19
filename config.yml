@@ -44,6 +44,12 @@ galaxy_arms:
       - "Python"
       - "Java"
       - "PostgreSQL"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "GitHub Actions"
+      - "Prisma"
 
 # Featured projects shown as constellation stars
 # Each project needs:
