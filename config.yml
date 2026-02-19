@@ -58,7 +58,7 @@ projects:
     arm: 1
     description: "Calculate the catch rate of a Pokémon."
   - repo: "StormBreak5/resume-analyzer"
-    arm: 2
+    arm: 1
     description: "Analyze your resume to any job you want."
 
 # Theme color overrides (optional — defaults to deep space palette)
